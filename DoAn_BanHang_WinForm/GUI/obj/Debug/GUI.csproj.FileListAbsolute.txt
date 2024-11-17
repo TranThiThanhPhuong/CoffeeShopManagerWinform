@@ -1,0 +1,275 @@
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.exe.config
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_Main.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_Login.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\System.Data.SqlClient.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.exe.config
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.exe.config
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\System.Data.SqlClient.xml
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongTien.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongQuan.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy_MatHang.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_BaoCaoBan.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_ChuyenKhoan.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_KetQuaKD.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_ThongKe.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TienMat.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongKet.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy_TaiKhoan.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.dll.config
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\RdlCompile.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Debug\RdlCompile.compiled
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\EnvDTE.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\stdole.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.exe.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\System.Data.SqlClient.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\EnvDTE.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\stdole.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.exe.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.exe.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.dll.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\System.Data.SqlClient.xml
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_BaoCaoBan.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_ChuyenKhoan.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_KetQuaKD.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_Login.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_Main.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy_MatHang.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy_TaiKhoan.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_ThongKe.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TienMat.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongKet.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongQuan.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongTien.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.exe.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\GUI.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\System.Data.SqlClient.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\EnvDTE.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\stdole.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\BLL.exe.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DAL.exe.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\DTO.dll.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\System.Data.SqlClient.xml
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_BaoCaoBan.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_ChuyenKhoan.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_KetQuaKD.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_Login.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_Main.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy_MatHang.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_QLy_TaiKhoan.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_ThongKe.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TienMat.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongKet.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongQuan.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Form_TongTien.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\GUI\obj\Debug\GUI.pdb

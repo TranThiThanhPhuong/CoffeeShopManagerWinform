@@ -1,0 +1,69 @@
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.Properties.Resources.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.exe.config
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\System.Data.SqlClient.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.exe.config
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\System.Data.SqlClient.xml
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.exe
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.dll.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.exe.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\System.Data.SqlClient.dll
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.exe.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.pdb
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.dll.config
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\System.Data.SqlClient.xml
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.exe
+D:\phương\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.exe.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\BLL.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\System.Data.SqlClient.dll
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DAL.exe.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.pdb
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\DTO.dll.config
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\bin\Debug\System.Data.SqlClient.xml
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.exe
+D:\phuongxinh\PBL3\DoAn_BanHang_WinForm\DoAn_BanHang_WinForm\BLL\obj\Debug\BLL.pdb
